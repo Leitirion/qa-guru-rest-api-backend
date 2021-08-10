@@ -1,6 +1,6 @@
-# **Tests for guru.qa lesson #19**
+# **Test for guru.qa lesson #19**
 
-Api tests for backend app on spring boot with Swagger.
+Api test for backend app on spring boot with Swagger.
 
-For launch tests use command:
+For launch test use command:
 ```./gradlew clean test```
