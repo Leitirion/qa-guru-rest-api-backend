@@ -3,15 +3,12 @@ package guru.qa.restbackend.controller;
 import guru.qa.restbackend.domain.UserLoginInfo;
 import guru.qa.restbackend.domain.UserInfo;
 import guru.qa.restbackend.exception.InvalidUsernameException;
-import io.swagger.annotations.Api;
-import io.swagger.annotations.ApiImplicitParams;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.Map;
